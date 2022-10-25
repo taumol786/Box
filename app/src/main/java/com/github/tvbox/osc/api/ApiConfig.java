@@ -88,7 +88,9 @@ public class ApiConfig {
         
         //String apiUrl = Hawk.get(HawkConfig.API_URL, HomeActivity.getRes().getString(R.string.app_source));
        // String apiUrl = Hawk.get(HawkConfig.API_URL,"https://agit.ai/hope/HopeTV/raw/branch/master/HopeTV.txt");
-        String apiUrl = Hawk.get(HawkConfig.API_URL,"https://gitea.com/taumol/HopeTV/raw/branch/main/HopeTV.txt");
+               // String apiUrl = Hawk.get(HawkConfig.API_URL,"https://gitea.com/taumol/HopeTV/raw/branch/main/HopeTV.txt");
+
+        String apiUrl = Hawk.get(HawkConfig.API_URL,"https://raw.iqiq.io/taumol/HopeTV/main/HopeTV.txt");
 
         
        
